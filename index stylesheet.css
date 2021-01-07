@@ -1,0 +1,59 @@
+body
+
+                {
+        
+                    font-family: 'Cambria';
+        
+                }
+
+            #main-page
+
+                {
+        
+                    width: auto;
+                    border: 15px #2bbecf;
+                    padding: auto;
+                    margin: auto;
+    
+                }
+			
+            #header h1 
+
+                {
+	
+                    font-family: sans-serif;
+		            font-size: 20pt;
+                    margin-bottom: 10px;
+		            margin-left: 10px;
+                    text-align: center;
+                    color: white;
+                }
+
+            #title
+
+                {		
+        
+                    font-size: 12pt;
+                    color: black;
+		            font-family: sans-serif;
+                    padding: 6px; 
+		
+                }
+			
+            #name
+
+                {
+	
+                    height: 550px;
+                    text-align: center;
+    
+                }
+        
+            #stan2020nct
+    
+                {
+	
+                    width: 500px;
+
+                }
+	

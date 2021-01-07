@@ -1,0 +1,140 @@
+body
+
+                {
+        
+                    font-family: 'Cambria';
+        
+                }
+
+            #main-page
+
+                {
+        
+                    width: auto;
+                    border: 15px #2bbecf;
+                    padding: auto;
+                    margin: auto;
+    
+                }
+			
+            #header h1 
+
+                {
+	
+                    font-family: sans-serif;
+		            font-size: 20pt;
+                    margin-bottom: 10px;
+		            margin-left: 10px;
+                    text-align: center;
+                }
+	
+            #title
+
+                {		
+        
+                    font-size: 12pt;
+		            color: black;
+		            font-family: sans-serif;
+                    padding: 6px; 
+		
+                }
+			
+            #body p
+
+                {
+	
+                    font-size: 14pt;
+                    color: black;
+                    font-family: sans-serif;
+                    text-align: center;
+                
+                }
+
+            #body2 p
+
+                {
+	
+                    font-size: 14pt;
+                    color: black;
+                    font-family: sans-serif;
+                    text-align: center;
+                
+                }
+
+            #body3 p
+
+                {
+	
+                    font-size: 14pt;
+                    color: black;
+                    font-family: sans-serif;
+                    text-align: center;
+                
+                }
+
+            #body4 p
+
+                {
+	
+                    font-size: 14pt;
+                    color: black;
+                    font-family: sans-serif;
+                    text-align: center;
+                
+                }
+
+            #body5 p
+
+                {
+	
+                    font-size: 14pt;
+                    color: black;
+                    font-family: sans-serif;
+                    text-align: center;
+                
+                }
+
+            #look p
+
+                {
+                    
+                    width: auto;
+                    text-align: center;
+                    
+                }
+
+            #look2 p
+
+                {
+                    
+                    width: auto;
+                    text-align: center;
+                    
+                }
+
+            #look3 p
+
+                {
+                    
+                    width: auto;
+                    text-align: center;
+                    
+                }
+
+            #look4 p
+
+                {
+                    
+                    width: auto;
+                    text-align: center;
+                    
+                }
+
+            #aboy p
+
+                {
+                    
+                    width: auto;
+                    text-align: center;
+                    
+                }
